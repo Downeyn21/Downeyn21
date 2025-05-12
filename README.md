@@ -40,7 +40,7 @@
 ###
 
 <p align="center">Hello and welcome to MTV Cribs!<br>I'm Nathaniel—a recent Fullstack Academy grad where I dove into JavaScript, React, and Prisma. I thrive on learning new things and digging into the details of how things work. Whether it's a solo sprint or a team collab, I'm always down to build something cool.<br><br>Outside of code, you’ll find me jamming on guitar, piano, drums, and even a little banjo. If you’ve got a project or just want to chat dev stuff (or music!), feel free to reach out.</p>
-<p align="center">and yes I use Arch</p>
+<p align="center">Yes I use Arch</p>
 
 ###
 
